@@ -16,6 +16,15 @@ It lives in the menu bar and keeps no icon in the Dock.
 
 ---
 
+## Download
+
+[<img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-mac-app-store/black/en-us" alt="Download on the Mac App Store" height="48">](https://apps.apple.com/app/id6794831211)
+
+Free on the Mac App Store. Requires macOS 13.0 Ventura or later and a Mac with
+Apple silicon.
+
+---
+
 ## What it does
 
 - Switch between 12-hour and 24-hour display
