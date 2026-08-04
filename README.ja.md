@@ -15,6 +15,15 @@
 
 ---
 
+## ダウンロード
+
+[<img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-mac-app-store/black/ja-jp" alt="Mac App Store でダウンロード" height="48">](https://apps.apple.com/jp/app/id6794831211)
+
+Mac App Store で無料で配布しています。macOS 13.0 Ventura 以降 / Apple Silicon 搭載
+モデルが必要です。
+
+---
+
 ## できること
 
 - 12 時間制 / 24 時間制の切り替え
